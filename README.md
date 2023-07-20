@@ -73,14 +73,11 @@ Server would be running at port 8080. Open any browser. Access the project - htt
 
 We want to make it super-easy for Placement Portal users and contributors to talk to us and connect with each other, to share ideas, solve problems and help make Placement Portal awesome. Here are the main channels we're running currently, we'd love to hear from you on one of them:
 
-#### Gitter
-If you want to discuss already created issues, potential bugs, new features you would like to work on or any kind of developer chat, you can head over to our [Gitter room](https://gitter.im/PlacementMNIT/community).
-
 
 
 #### Email 
 
-[sauravsinghch@gmail.com](mailto:pankajtanwar510@gmail.com)
+[sauravsinghch@gmail.com]
 
 If you want to talk directly to me, email is the easiest way.
 
