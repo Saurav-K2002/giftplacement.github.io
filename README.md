@@ -1,5 +1,5 @@
  ![GIFT_Placement_Portal](./public/assets/images/github-mnit-placement-portal.png)
-> An Online Placement & Internship automation web portal for MNIT Jaipur students using MEAN Stack (Node.js, AngularJs, Express.js & MongoDb)
+> An Online Placement & Internship automation web portal for GIFT Bhubaneswar students using MEAN Stack (Node.js, AngularJs, Express.js & MongoDb)
 
 Training & Placement Cell, GIFT Bhubaneswar aims at building a strong interface between industry and the University for training and placement of students. To make recruitment session smoother for students, Training & Placement Cell has a web portal for handling the placement registration for companies visiting our campus.
 
